@@ -1,2 +1,2 @@
-# pascal-project-n
-Open Source Code for a project,
+# Free Pascal
+Open Source Code for a project.
